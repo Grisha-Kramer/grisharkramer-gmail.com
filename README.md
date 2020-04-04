@@ -1,2 +1,1 @@
-# grisharkramer-gmail.com
-Offline-Budget-Netlify
+# Offline_Budget_Tracker
